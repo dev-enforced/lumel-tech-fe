@@ -1,2 +1,10 @@
-# lumel-tech-fe
-Developed using React (with Vite) &amp; Tailwind CSS
+# [Lumel Technologies](https://lumel.com/) Frontend Assignment
+
+## Assignment Details:
+
+
+## Tech Stack:
+
+
+
+## Deployed Link: 
